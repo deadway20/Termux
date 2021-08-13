@@ -1,0 +1,4 @@
+include "/data/data/com.termux/files/usr/share/nano/*nanorc"
+	set linenumbers
+	set mouse
+	set softwrap
