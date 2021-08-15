@@ -4,7 +4,6 @@ command_not_found_handle() {
 alias c='clear'
 alias h="history"
 alias e="exit"
-alias etc="cd ../usr/etc/"
 alias bashrc="nano ../usr/etc/bash.bashrc"
 echo -e "
    ______          __
@@ -13,21 +12,6 @@ echo -e "
 / /___/ /_/ / /_/ /  __/ /  /____/>  <
 \____/\____/\__,_/\___/_/       /_/|_|
 " |lolcat
-<<com
-echo ""
-echo -e "         \e[1;91m__\e[1;92m,-\e[1;93m////\e[1;92m, "
-echo -e "        \e[1;91m/__\e[1;92m) (\e[1;93mo\e[1;92m) ) "
-echo -e "          /.,--. \       "
-echo -e "         /,-'/.\. \      "
-echo -e "         \.  \.\ \ \     "
-echo -e "          \.  \\\ \  /   "
-echo -e "      \e[1;93m=====\e[1;91m((\e[1;93m=\e[1;91m((\e[1;92m\\e[1;93m========= "
-echo -e "           \e[1;92m    \ \ \.\   "
-echo -e "                \ \ \'     "
-echo -e "                 \ \'      "
-echo -e "                  \ \     "
-echo -e "                   '-'    \e[1;97m "
-com
 echo -e "          +-+-+-+-+-+-+-+ " 
 echo -e "          |W|e|l|c|o|m|e|"|lolcat
 echo -e "          +-+-+-+-+-+-+-+ " 
