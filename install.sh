@@ -37,11 +37,11 @@ pip install lolcat &&
 sleep 1
 
 echo "...installing Locate Tool..."
-apt install locate  &&
+apt install mlocate  &&
 sleep 1
 
 echo "...installing openssh..."
-apt install ssh  &&
+apt install openssh  &&
 sleep 1
 
 echo "...installing figlet..."
