@@ -1,7 +1,8 @@
 if status is-interactive
 	
 	alias c='clear'
-        alias x='exit'
+  alias x='exit'
 	alias h='history'
-    # Commands to run in interactive sessions can go here
+  alias bsh="nano ~/..usr/etc/bash.bashrc"
+  alias fsh="nano ~/.config/fish/functions/fish_prompt.fish"
 end
