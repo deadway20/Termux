@@ -57,7 +57,6 @@ cd ~ && rm ../usr/etc/motd
 sleep 1
 
 echo "...Restore termux files..."
-mkdir -p ~/ &&
 cp -rf ~/Termux/.termux $HOME/
 sleep 1
 
