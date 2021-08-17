@@ -4,7 +4,8 @@ command_not_found_handle() {
 alias c='clear'
 alias h="history"
 alias e="exit"
-alias bashrc="nano ../usr/etc/bash.bashrc"
+alias bsh="nano ~/../usr/etc/bash.bashrc"
+alias fsh="nano ~/.config/fish/functions/fish_prompt.fish"
 echo -e "
    ______          __
   / ____/___  ____/ /__  _____     _  __
