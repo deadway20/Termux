@@ -5,7 +5,7 @@
 ### [+] Disclaimer :
 
 * This repository is my termux backup of changing font,Back-Ground color and colorize shell prompt ...
-*copy below code inside termux show the magic🔥
+* copy below code inside termux and show the magic🔥
 
 ## [+] Installation :
 
