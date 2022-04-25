@@ -5,5 +5,4 @@ if status is-interactive
   alias h='history'
   alias bsh="nano ~/../usr/etc/bash.bashrc"
   alias fsh="nano ~/.config/fish/functions/fish_prompt.fish"
-  alias n='nano'
 end

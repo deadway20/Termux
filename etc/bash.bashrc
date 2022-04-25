@@ -2,8 +2,7 @@ command_not_found_handle() {
              /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 }
 alias c='clear'
-alias h="history"
-alias e="exit"
+alias x="exit"
 alias bsh="nano ~/../usr/etc/bash.bashrc"
 alias fsh="nano ~/.config/fish/functions/fish_prompt.fish"
 echo -e "

@@ -60,9 +60,11 @@ echo "...Restore termux files..."
 cp -rf ~/Termux/.termux $HOME/
 sleep 1
 
+
 cp -rf ~/Termux/etc/* ~/../usr/etc/ 
 sleep 1
 
 cp -rf ~/Termux/.config $HOME/
 sleep 1
+
 exit
