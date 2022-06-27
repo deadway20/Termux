@@ -95,6 +95,8 @@ alias bsh="nano ~/../usr/etc/bash.bashrc"
 alias fsh="nano ~/.config/fish/functions/fish_prompt.fish"
 alias update='sudo apt-get update -y'
 alias upgrade='sudo apt-get upgrade -y'
+alias jadx-gui=’~/<directoryName>/jadx/build/jadx/bin/jadx-gui’
+alias studio=’~/jadx/build/jadx/bin/jadx-gui’
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
